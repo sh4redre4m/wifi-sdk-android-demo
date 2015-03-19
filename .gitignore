@@ -1,0 +1,14 @@
+
+
+*.jar
+!android*.jar
+
+
+.DS_Store
+
+
+bin/*
+
+
+
+
