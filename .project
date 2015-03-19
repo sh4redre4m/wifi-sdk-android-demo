@@ -30,4 +30,11 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>wifi-sdk-android-generic</name>
+			<type>2</type>
+			<location>/Users/suchavision/Workspaces/Android/wifi-sdk-android-generic/src</location>
+		</link>
+	</linkedResources>
 </projectDescription>
